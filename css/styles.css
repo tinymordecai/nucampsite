@@ -14,7 +14,7 @@ header h2{
     color: #cec8ff;
 }
 
-footer {
+.site-footer {
     background-image: linear-gradient(#cec8ff,white);
     padding: 20px 0;
 }
@@ -29,7 +29,8 @@ footer {
     padding: 50px 0;
     border-bottom: 1px ridge;
     min-height: 200px;
- }
+}
  .navbar{
      background-color:#901CAD;
- }
+}
+ 
